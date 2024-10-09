@@ -1,6 +1,8 @@
 Typical Documentation Worflow
 ---
 
+Note: Please delete this line before saving. Please do not write on this exact file but make a copy before saving.
+
 Date:
 
 Method of delivery: (online or face to face, remember to put the location if face to face)
