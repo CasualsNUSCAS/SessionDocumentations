@@ -3,6 +3,8 @@ Typical Documentation Worflow
 
 > [!Note]
 > Please do not write on this exact file but make a copy before editing. In the copy, please delete this line before saving.
+> 
+> Naming the new file: AYXXXX_WeekX.md (eg AY2425_Week8.md)
 
 Date:
 
