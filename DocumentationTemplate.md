@@ -1,7 +1,8 @@
 Typical Documentation Worflow
 ---
 
-Note: Please delete this line before saving. Please do not write on this exact file but make a copy before saving.
+> [!Note]
+> Please do not write on this exact file but make a copy before editing. In the copy, please delete this line before saving.
 
 Date:
 
