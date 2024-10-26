@@ -1,6 +1,6 @@
 Date: 18/10/2024
 
-Method of delivery: f2f, session location to be keyed in later
+Method of delivery: f2f, S16-04-36
 
 Duration: 1.5 hours
 
