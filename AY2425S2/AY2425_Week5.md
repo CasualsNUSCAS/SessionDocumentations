@@ -1,21 +1,25 @@
-Date:
+Date: 14 February
 
-Method of delivery: (online or face to face, remember to put the location if face to face)
+Method of delivery: F2F, UTown Plaza SR3
 
-Duration:
+Duration: 1.5 hours
 
-## Session Idea
-Replace with Name of session
+## Pokemon Showdown!
 
-Give a brief description of what was done, don't have to be too long but ensure that its accurate.
+🎵Do you wanna be the very best, like no one ever was?🎵
+Presenting the Pokemon Showdown Showdown! Do you have the world champ difference? 🐺🏆
+
+The semifinals onwards will be streamed on the visualiser, and legend has it that our current President triumphed last year to rise the ranks! 🔥😱🔥
+
+For non-competitive players, we will host a "History of Pokemon" presentation, along with some minigames! 💯💯💯
+
+What are you waiting for? Come down with Extremespeed this Friday! 🐆💨💨
+
 
 ## Slides link
-[This will be the link to the slides](replace this with link)
+https://www.canva.com/design/DAGe5AYLXQY/NzS32UE9kil3tsgcf58IOg/edit
 
 ## After Action Review
 
-What went well?
-
-What did not go as planned?
-
-What future improvements can be done?
+Today’s session was a success, despite the low turnout.
+the presentation went relatively smoothly, the minigames were fun, well-received and cultivated a spirit of cooperation, and showing off pokemon showdown and having a few battles on the visualiser was hype and did its job of showing off how accessible (competitive) pokemon battling can be, especially compared to trying to train/raise/battle on the Switch.
