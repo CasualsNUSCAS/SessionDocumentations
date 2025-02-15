@@ -2,14 +2,14 @@ Date: 24 January
 
 Method of delivery: F2F, S-16-04 
 
-Duration:
+Duration: 1.5 hours
 
 ## Session Idea
 Blind Presentation Competition 😎 
 
 Do you like presentations? Can't get enough of them during the semester, perhaps? 😈😈😈 
 We present you with this week's CASuals session, where you get to practice useful skills in a fun way! 😎🎁😎 
-🔥🔥🔥Come on down to create and give short presentations on whatever anime-related subject you want, from shows to manga to games to V-tubers to idols to <and so on and so forth>! 💯💯💯 
+🔥🔥🔥Come on down to create and give short presentations on whatever anime-related subject you want, from shows to manga to games to V-tubers to idols to and so on and so forth! 💯💯💯 
 
 
 ## Slides link
