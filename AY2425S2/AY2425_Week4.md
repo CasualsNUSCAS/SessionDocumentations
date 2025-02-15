@@ -5,8 +5,7 @@ Method of delivery: F2F, S16-04-35
 
 Duration: 1.5 hours
 
-## Session Idea
-Anisong Quiz
+## Anisong Quiz
 
 👋 👋 Ready for an evening of making war love toast music? 🎶🎶🎶
 Come on down for CAS’s Anisong Quiz, Community-Sourced edition! 💯💯💯
