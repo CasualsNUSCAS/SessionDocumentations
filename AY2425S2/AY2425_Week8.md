@@ -9,8 +9,9 @@ Duration: 1.5 hours
 
 See Title
 
-## Slides link
-[This will be the link to the slides](replace this with link)
+## Link is the soul of a legendary hero that throughout history is reincarnated within a seemingly ordinary boy or young man whenever evil arises.
+(replace this with link)
+
 
 ## After Action Review
 
