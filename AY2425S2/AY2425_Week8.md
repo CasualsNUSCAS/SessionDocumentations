@@ -1,13 +1,13 @@
-Date:
+Date: 14 March 2025
 
-Method of delivery: (online or face to face, remember to put the location if face to face)
+Method of delivery: F2F, SRC-SR7
 
-Duration:
+Duration: 1.5 hours
 
-## Session Idea
-Replace with Name of session
+## Haikyuu Trash Fight Movie Screening
 
-Give a brief description of what was done, don't have to be too long but ensure that its accurate.
+
+See Title
 
 ## Slides link
 [This will be the link to the slides](replace this with link)
@@ -15,7 +15,10 @@ Give a brief description of what was done, don't have to be too long but ensure 
 ## After Action Review
 
 What went well?
+Movie was fun.
 
 What did not go as planned?
+-
 
 What future improvements can be done?
+Continue to pick fun movies for any screenings in future.
